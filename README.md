@@ -12,38 +12,24 @@ A simple C# console application where the player has to guess a randomly generat
 - C#
 - .NET Console Application
 
-## ▶️ How to run
-```bash
-dotnet run
 
-
-💡 **Wichtig:**  
-Die ```bash ```-Zeile muss **wirklich mit ``` anfangen**, sonst rendert GitHub es nicht als Codeblock.
+⚠️ Wichtig:
+- Drei Backticks ``` **vor** `bash`
+- Drei Backticks ``` **nach** `dotnet run`
+- Kein Leerzeichen dazwischen
 
 ---
 
-### 2️⃣ Optional: About-Beschreibung (rechts)
-Du hast schon:
-> *A simple C# console number guessing game.*
-
-Perfekt so 👌
-
----
-
-## 🚀 Was DU jetzt erreicht hast
-Du kannst jetzt ehrlich sagen:
-> „Ich habe ein eigenes C#-Projekt entwickelt und mit GitHub versioniert.“
-
-Das ist **riesig** für Einsteiger 💪
+### Schritt 4: Speichern
+- Unten auf **Commit changes**
+- Commit Message z. B.:  
+  `Fix README code block formatting`
 
 ---
 
-## 🧭 Nächste sinnvolle Schritte (meine Empfehlung)
-Such dir **einen** aus:
+## 🥈 „About“-Beschreibung (rechts) – wo ist das?
+Rechts im Repository:
+1. Klick auf das **⚙️ Zahnrad** neben **About**
+2. Text ist schon gut:
 
-1️⃣ „**Nochmal spielen? (j/n)**“ ins Spiel einbauen  
-2️⃣ Code in **Methoden** aufteilen (sehr wichtig fürs Lernen)  
-3️⃣ **Zweites GitHub-Projekt** (z. B. Todo App)  
-4️⃣ GitHub-Profil **bewerbungsreif** machen  
 
-👉 Sag mir die Nummer – wir machen direkt weiter 😄
