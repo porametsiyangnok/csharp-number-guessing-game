@@ -13,5 +13,6 @@ Technologies
 - .NET Console Application
 
 How to run
+
 bash
 dotnet run
