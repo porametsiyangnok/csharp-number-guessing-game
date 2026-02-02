@@ -12,24 +12,6 @@ A simple C# console application where the player has to guess a randomly generat
 - C#
 - .NET Console Application
 
-
-⚠️ Wichtig:
-- Drei Backticks ``` **vor** `bash`
-- Drei Backticks ``` **nach** `dotnet run`
-- Kein Leerzeichen dazwischen
-
----
-
-### Schritt 4: Speichern
-- Unten auf **Commit changes**
-- Commit Message z. B.:  
-  `Fix README code block formatting`
-
----
-
-## 🥈 „About“-Beschreibung (rechts) – wo ist das?
-Rechts im Repository:
-1. Klick auf das **⚙️ Zahnrad** neben **About**
-2. Text ist schon gut:
-
-
+## ▶️ How to run
+```bash
+dotnet run
